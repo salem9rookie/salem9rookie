@@ -5,7 +5,7 @@
     Java, SQL, Postman
 - 💡The tools I'm working on learning at the moment are:
     HTML, CSS, JavaScript, C++ and GDScript
-- 📫 How to reach me ... Shoot me a message here or on my linkedin at[ https://www.linkedin.com/in/emily-h-48168323a/](https://www.linkedin.com/in/salemxhunt/)
+- 📫 How to reach me ... Shoot me a message here or on my linkedin at https://www.linkedin.com/in/salemxhunt/
 
 Projects I'm currently working on:
 
