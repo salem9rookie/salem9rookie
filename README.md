@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @salem9rookie
-- 👀 I’m interested in learning to design customer-centric approaches to everyday problems/
-- 🌱 I’m currently learning Java, SQL, and getting used to Godot's game engine and GDScript.
-- 💞️ I’m looking to collaborate on 2D-2.5D rpg and adventure games.
+- 👀 I’m interested in full stack game and web development.
+- 🌱 I’m currently enrolled to get my Associates in Applied Sciences.
+- 👌 The tools I'm currently working with are:
+- Java, SQL, Postman
+- 💡The tools I'm working on learning at the moment are:
+- HTML, CSS, JavaScript, C++ and GDScript
 - 📫 How to reach me ... Shoot me a message here or on my linkedin at[ https://www.linkedin.com/in/emily-h-48168323a/](https://www.linkedin.com/in/salemxhunt/)
 
 <!---
